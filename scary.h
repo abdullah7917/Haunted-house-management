@@ -1,4 +1,4 @@
-// Abdullah ali khan , khanab@pdx.edu ,cs1632
+// Abdullah ali khan 
 // this file contains classes,structs 
 
 const int MAX =5;
