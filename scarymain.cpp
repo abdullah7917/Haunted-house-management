@@ -1,4 +1,4 @@
-// Abdullah ali khan , khanab@pdx.edu ,cs1632
+// Abdullah ali khan 
 // this file calls the fuctions and displays all the promts 
 #include "scary.h"
 
